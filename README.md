@@ -1,6 +1,17 @@
 
 
-<img src="cover.jpg" alt="GitHub Banner" width="100%" />
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+<p>
+
+<a target="_blank" href="https://github.com/MarouaneELAASSOULI" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://www.instagram.com/maroine.elaassouli/profilecard/?igsh=MThwODBlY3ZyZW5idA==" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
+<a target="_blank" href="https://www.facebook.com/profile.php?id=100029125222455&mibextid=ZbWKwL" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=blue" alt="facebook" /></a>
+
+
+</p>
+
 
 ## <span style="color: purple;">Hi there 👋🏼, I'm Maroine  </span>
 <p>A passionate full-stack developer from Morocco</p>
@@ -36,18 +47,8 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
-<h4>⚡️ Where to find me</h4>
-<p>
-
-<a target="_blank" href="https://github.com/MarouaneELAASSOULI" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 
 
-<a target="_blank" href="https://www.instagram.com/maroine.elaassouli/profilecard/?igsh=MThwODBlY3ZyZW5idA==" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
-
-<a target="_blank" href="https://www.facebook.com/profile.php?id=100029125222455&mibextid=ZbWKwL" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=blue" alt="facebook" /></a>
-
-
-</p>
 
 
 
