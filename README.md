@@ -1,7 +1,13 @@
 
 
-<h1>Hi 👋, I'm </h1>
+<img src="cover.jpg" alt="GitHub Banner" width="100%" />
+
+## <span style="color: purple;">Hi there 👋🏼, I'm Maroine  </span>
 <p>A passionate full-stack developer from Morocco</p>
+
+<!-- 🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de) -->
+<br>👨🏼‍🎓 studying computer science at Higher school of technology on safi
+<br>👨🏼‍💻 working as a web developer
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
@@ -35,3 +41,10 @@
 <a target="_blank" href="https://www.instagram.com/maroine.elaassouli" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 
 
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture> 
