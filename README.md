@@ -3,16 +3,20 @@
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-<center>
-<p>
+<div align="center">
 
-<a target="_blank" href="https://github.com/MarouaneELAASSOULI" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/maroine.elaassouli/profilecard/?igsh=MThwODBlY3ZyZW5idA==" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
-<a target="_blank" href="https://www.facebook.com/profile.php?id=100029125222455&mibextid=ZbWKwL" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=blue" alt="facebook" /></a>
+<a href="https://github.com/MarouaneELAASSOULI" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
+</a>
+<a href="https://www.instagram.com/maroine.elaassouli/profilecard/?igsh=MThwODBlY3ZyZW5idA==" target="_blank">
+  <img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100029125222455&mibextid=ZbWKwL" target="_blank">
+  <img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=blue" alt="facebook" />
+</a>
 
+</div>
 
-</p>
-</center>
 
 ## <span style="color: purple;">Hi there 👋🏼, I'm Maroine  </span>
 <p>A passionate full-stack developer from Morocco</p>
