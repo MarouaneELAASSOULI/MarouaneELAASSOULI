@@ -1,8 +1,9 @@
 
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
+<center>
 <p>
 
 <a target="_blank" href="https://github.com/MarouaneELAASSOULI" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
@@ -11,7 +12,7 @@
 
 
 </p>
-
+</center>
 
 ## <span style="color: purple;">Hi there 👋🏼, I'm Maroine  </span>
 <p>A passionate full-stack developer from Morocco</p>
